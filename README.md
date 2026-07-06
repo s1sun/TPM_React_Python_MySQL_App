@@ -7,6 +7,11 @@ Web development protocols:
 4) The server sends a response back to the browser.
 5) The browser displays the webpage securely using HTTPS.
 
+![Workflow figure](figures/TPM_React_Python_MySQL_App_figure1.png)
+
+<p align="center">
+  <img src="figures/TPM_React_Python_MySQL_App_figure1.png" alt="Workflow figure" width="700">
+</p>
 
 
                                                                    ---database---
