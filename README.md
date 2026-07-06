@@ -8,6 +8,7 @@ Web development protocols:
 5) The browser displays the webpage securely using HTTPS.
 
 
+
                                                          ---database---
                                                          |            |
 User Request --------------->HTTP Request -------------->Server Response ------------>User Display
