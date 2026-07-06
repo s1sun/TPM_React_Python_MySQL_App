@@ -9,6 +9,6 @@ Web development protocols:
 
 
 
-                                                              ---database---
-                                                              |            |
-     User Request --------------->HTTP Request -------------->Server Response ------------>User Display
+                                                                   ---database---
+                                                                   |            |
+          User Request --------------->HTTP Request -------------->Server Response ------------>User Display
