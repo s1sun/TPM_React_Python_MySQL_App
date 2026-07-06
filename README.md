@@ -10,6 +10,6 @@ Web development protocols:
 ![Workflow figure](figures/TPM_React_Python_MySQL_App_figure1.png)
 
 <p align="left">
-  <img src="figures/TPM_React_Python_MySQL_App_figure1.png" alt="Workflow figure" width="550">
+  <img src="figures/TPM_React_Python_MySQL_App_figure1.png" alt="Workflow figure" width="525">
 </p>
 
