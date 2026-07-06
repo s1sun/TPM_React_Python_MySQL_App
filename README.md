@@ -1,4 +1,5 @@
 Access GTEx V10 protected data through the GTEx Portal and install it into a local MySQL database. Your project analyzes raw FASTQ files to generate TPM data. By comparing your TPM results with GTEx TPM from healthy tissues, you can gain valuable insights.
+
 Web development protocols:
 1) User access websites through web browsers.
 2) The browser sends a request to the web server.
