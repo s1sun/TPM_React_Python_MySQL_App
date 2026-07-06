@@ -6,6 +6,8 @@ Web development protocols:
 3) The server processes the request and may access a database (option)
 4) The server sends a response back to the browser.
 5) The browser displays the webpage securely using HTTPS.
+
+
                                                          ---database---
                                                          |            |
 User Request --------------->HTTP Request -------------->Server Response ------------>User Display
